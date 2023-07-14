@@ -36,7 +36,7 @@ public static void main(String[] args) {
 	
 	Scanner sc=new Scanner(System.in);
 	System.out.println("LETS CHECK YOUR CONFIDENCE NOW!!");
-    System.out.println("IN HOW MANY NUMBER OF GUESSES YOU WILL FIND IT OUT??");
+	System.out.println("IN HOW MANY NUMBER OF GUESSES YOU WILL FIND IT OUT??");
 	int n=sc.nextInt();
 
 	
